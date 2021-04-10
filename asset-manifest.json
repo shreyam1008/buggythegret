@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/buggythegret/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/buggythegret/static/js/main.16b2e610.chunk.js",
-    "main.js.map": "/buggythegret/static/js/main.16b2e610.chunk.js.map",
+    "main.js": "/buggythegret/static/js/main.433159c1.chunk.js",
+    "main.js.map": "/buggythegret/static/js/main.433159c1.chunk.js.map",
     "runtime-main.js": "/buggythegret/static/js/runtime-main.621bedd2.js",
     "runtime-main.js.map": "/buggythegret/static/js/runtime-main.621bedd2.js.map",
     "static/js/2.61f9bd3b.chunk.js": "/buggythegret/static/js/2.61f9bd3b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.621bedd2.js",
     "static/js/2.61f9bd3b.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.16b2e610.chunk.js"
+    "static/js/main.433159c1.chunk.js"
   ]
 }
