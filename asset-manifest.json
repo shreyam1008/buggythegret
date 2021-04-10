@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/buggythegret/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/buggythegret/static/js/main.16b2e610.chunk.js",
+    "main.js.map": "/buggythegret/static/js/main.16b2e610.chunk.js.map",
+    "runtime-main.js": "/buggythegret/static/js/runtime-main.621bedd2.js",
+    "runtime-main.js.map": "/buggythegret/static/js/runtime-main.621bedd2.js.map",
+    "static/js/2.61f9bd3b.chunk.js": "/buggythegret/static/js/2.61f9bd3b.chunk.js",
+    "static/js/2.61f9bd3b.chunk.js.map": "/buggythegret/static/js/2.61f9bd3b.chunk.js.map",
+    "static/js/3.981e0b10.chunk.js": "/buggythegret/static/js/3.981e0b10.chunk.js",
+    "static/js/3.981e0b10.chunk.js.map": "/buggythegret/static/js/3.981e0b10.chunk.js.map",
+    "index.html": "/buggythegret/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/buggythegret/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.61f9bd3b.chunk.js.LICENSE.txt": "/buggythegret/static/js/2.61f9bd3b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/buggythegret/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621bedd2.js",
+    "static/js/2.61f9bd3b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.16b2e610.chunk.js"
+  ]
+}
