@@ -2,10 +2,12 @@ import React from "react";
 import { Particles as ReactParticles } from "react-particles-js";
 import { makeStyles } from "@material-ui/core/styles";
 
+import reactIcon from "./images/react.png";
+
 const useStyles = makeStyles((theme) => ({
   particlesCanvas: {
     position: "fixed",
-    opacity: "0.3"
+    opacity: "0.5",
   },
 }));
 
@@ -31,6 +33,7 @@ const Particles = () => {
               color: "tomato",
             },
           },
+
           size: {
             value: 8,
             random: true,
@@ -49,6 +52,14 @@ const Particles = () => {
               speed: 1,
               opacity_min: 0.1,
               sync: false,
+            },
+          },
+        },
+        interactivity: {
+          events: {
+            onhover: {
+              enable: true,
+              mode: "repulse",
             },
           },
         },

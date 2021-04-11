@@ -7,12 +7,16 @@ import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 
+import Particles from "./Particles";
+
 import "./App.css";
 
 function App() {
   return (
     <React.Fragment>
+      <Particles />
       <CssBaseline />
+
       <Navbar />
       <Switch>
         <Route exact path="/" component={Home} />
