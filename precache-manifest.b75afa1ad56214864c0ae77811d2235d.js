@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aba5ae34ae4b0d879e1177270ee81300",
+    "revision": "4c65c8aa02b961020592cecbf83fa47f",
     "url": "/buggythegret/index.html"
   },
   {
-    "revision": "3cdce5b576638204df6f",
+    "revision": "aca1b36c8436d58f8b22",
     "url": "/buggythegret/static/css/main.fae52ef3.chunk.css"
   },
   {
-    "revision": "f4fb436946b5f7e60d7f",
-    "url": "/buggythegret/static/js/2.20778d2a.chunk.js"
+    "revision": "f5f0c034da1b48e47a1b",
+    "url": "/buggythegret/static/js/2.5d8f6686.chunk.js"
   },
   {
     "revision": "bfbf98b39da508f522b8cab91a8e0702",
-    "url": "/buggythegret/static/js/2.20778d2a.chunk.js.LICENSE.txt"
+    "url": "/buggythegret/static/js/2.5d8f6686.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cdce5b576638204df6f",
-    "url": "/buggythegret/static/js/main.b97d1b7a.chunk.js"
+    "revision": "aca1b36c8436d58f8b22",
+    "url": "/buggythegret/static/js/main.d7966efc.chunk.js"
   },
   {
     "revision": "146c4c440d326f1c1009",
