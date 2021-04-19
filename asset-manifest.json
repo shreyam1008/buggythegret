@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/buggythegret/static/css/main.fae52ef3.chunk.css",
-    "main.js": "/buggythegret/static/js/main.e54eb759.chunk.js",
-    "main.js.map": "/buggythegret/static/js/main.e54eb759.chunk.js.map",
+    "main.js": "/buggythegret/static/js/main.ac8a7a38.chunk.js",
+    "main.js.map": "/buggythegret/static/js/main.ac8a7a38.chunk.js.map",
     "runtime-main.js": "/buggythegret/static/js/runtime-main.997dba04.js",
     "runtime-main.js.map": "/buggythegret/static/js/runtime-main.997dba04.js.map",
     "static/js/2.b5876c69.chunk.js": "/buggythegret/static/js/2.b5876c69.chunk.js",
     "static/js/2.b5876c69.chunk.js.map": "/buggythegret/static/js/2.b5876c69.chunk.js.map",
     "index.html": "/buggythegret/index.html",
-    "precache-manifest.ba5c4cbfb043405f035a75a3c3fff2ea.js": "/buggythegret/precache-manifest.ba5c4cbfb043405f035a75a3c3fff2ea.js",
+    "precache-manifest.165eee036b707c8e6ee86f6177933c3f.js": "/buggythegret/precache-manifest.165eee036b707c8e6ee86f6177933c3f.js",
     "service-worker.js": "/buggythegret/service-worker.js",
     "static/css/main.fae52ef3.chunk.css.map": "/buggythegret/static/css/main.fae52ef3.chunk.css.map",
     "static/js/2.b5876c69.chunk.js.LICENSE.txt": "/buggythegret/static/js/2.b5876c69.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.997dba04.js",
     "static/js/2.b5876c69.chunk.js",
     "static/css/main.fae52ef3.chunk.css",
-    "static/js/main.e54eb759.chunk.js"
+    "static/js/main.ac8a7a38.chunk.js"
   ]
 }
