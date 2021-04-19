@@ -132,7 +132,7 @@ const Resume = () => {
             web design
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            somewhere only we know
           </Typography>
           <Typography
             variant="subtitle1"
